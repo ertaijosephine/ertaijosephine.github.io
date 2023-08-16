@@ -197,7 +197,7 @@ $(document).ready(function () {
             end: new Date('Sept 02, 2023 12:30'),
 
             // Event Address
-            address: 'ITC Fortune Park Hotel, Kolkata',
+            address: 'GKI Nurdin',
 
             // Event Description
             description: "Thank you for attending our wedding!"
